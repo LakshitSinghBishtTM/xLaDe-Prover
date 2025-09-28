@@ -1,0 +1,3 @@
+[submodule "lean-core"]
+	path = lean-core
+	url = https://github.com/lakshitsinghbishttm/lean4
