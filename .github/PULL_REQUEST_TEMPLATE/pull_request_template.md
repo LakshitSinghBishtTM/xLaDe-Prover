@@ -1,6 +1,6 @@
 ---
-name: "Pull Request"
-about: "Use this template when submitting code or documentation changes"
+name: "Pull Request / Contribution"
+about: "Use this template to propose code, documentation, or conceptual changes."
 title: "[PR]"
 labels: "needs review"
 assignees: ""
@@ -8,14 +8,16 @@ assignees: ""
 
 # Description
 
-Please include a summary of the changes made in this PR. Explain the motivation behind the change and any relevant context.
+Please describe the purpose of this contribution and the motivation behind it.
+This may include conceptual changes, documentation updates, or experimental code.
 
 ---
 
-## Type of Change
+## Type of Contribution
 
 - [ ] Code change / feature  
 - [ ] Documentation update  
+- [ ] Conceptual / research exploration  
 - [ ] Bug fix  
 - [ ] Other (please describe): __________
 
@@ -23,11 +25,11 @@ Please include a summary of the changes made in this PR. Explain the motivation 
 
 ## Related Issue(s)
 
-Link any related issues, e.g., fixes #issue_number or references #issue_number
+Reference any related issues or discussions (e.g., `#12`), if applicable.
 
 ---
 
-## Changes Made
+## Summary of Changes
 
 - Change 1  
 - Change 2  
@@ -37,14 +39,18 @@ Link any related issues, e.g., fixes #issue_number or references #issue_number
 
 ## Checklist
 
-- [ ] My code follows the style guidelines of this project  
-- [ ] I have performed a self-review of my code  
-- [ ] I have added necessary documentation (if applicable)  
-- [ ] I have tested my changes (if applicable)  
-- [ ] I have updated the CHANGELOG (if applicable)  
+- [ ] I have reviewed my changes for clarity and consistency  
+- [ ] I have added or updated documentation where appropriate  
+- [ ] I have tested or reasoned about the changes (if applicable)  
 
 ---
 
 ## Additional Context
 
-Add any other context, screenshots, or notes for reviewers.
+Add any further explanation, notes, or context that may help reviewers.
+
+---
+
+> **Note:**  
+> xLaDe is an experimental research project.  
+> Contributions are not expected to be production-ready and may represent exploratory or conceptual work.
