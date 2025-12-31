@@ -52,4 +52,4 @@ The xLaDe roadmap outlines **short-term, medium-term, and long-term objectives**
 - **Medium-Term:** Visual input support, AI/ML integration, community tools, mobile adaptation  
 - **Long-Term:** Interoperability with other proof assistants, language-level improvements  
 
-See [`ROADMAP.md`](../docs/ROADMAP.md) for full details.
+See [`ROADMAP.md`](/roadmap.md) for full details.
