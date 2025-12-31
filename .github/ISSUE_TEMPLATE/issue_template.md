@@ -1,6 +1,6 @@
 ---
-name: "Issue / Feature Request"
-about: "Use this template for bug reports, feature requests, or discussions"
+name: "Issue / Idea / Discussion"
+about: "Use this template to report issues, propose ideas, or start discussions related to xLaDe."
 title: "[ISSUE]"
 labels: "triage"
 assignees: ""
@@ -8,42 +8,46 @@ assignees: ""
 
 # Description
 
-Please provide a clear and concise description of the issue, feature request, or idea.
+Please provide a clear description of the issue, idea, or discussion topic.
+
+This may include conceptual questions, design thoughts, technical concerns, or observations.
 
 ---
 
-## Type of Issue
+## Type of Entry
 
-- [ ] Bug  
-- [ ] Feature Request / Enhancement  
-- [ ] Discussion / Question  
-
----
-
-## Steps to Reproduce (for bugs)
-
-If reporting a bug, please include:
-
-1. Step-by-step instructions to reproduce the problem  
-2. Expected behavior  
-3. Actual behavior  
+- [ ] Bug / Technical issue  
+- [ ] Feature or enhancement idea  
+- [ ] Conceptual / research discussion  
+- [ ] Question  
 
 ---
 
-## Proposed Solution (if any)
+## Details (if applicable)
 
-Describe how you think this could be fixed or implemented.
+If relevant, please describe:
+- What you expected  
+- What actually happened  
+- Any relevant context or assumptions  
+
+---
+
+## Proposed Direction (optional)
+
+If you have an idea for how this could be addressed or explored, describe it here.
 
 ---
 
 ## Additional Context
 
-Add any other context, screenshots, or references that may help understand the issue.
+Add any additional notes, references, screenshots, or related links.
 
 ---
 
-## Environment (for code-related issues)
+## Environment (optional)
+
+Only include if relevant:
 
 - OS:  
-- Lean 4 version (if applicable):  
-- xLaDe branch or commit:  
+- Lean version:  
+- xLaDe branch / commit:
