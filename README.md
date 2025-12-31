@@ -37,7 +37,7 @@ The project goals are structured across **short-term, medium-term, and long-term
 - **Medium-Term**: Visual input support, AI/ML integration, community tools, mobile adaptation  
 - **Long-Term**: Interoperability with other proof assistants and language-level improvements  
 
-For a detailed roadmap, see [`ROADMAP.md`](ROADMAP.md).
+For a detailed roadmap, see [`roadmap.md`](docs/roadmap.md).
 
 ---
 
