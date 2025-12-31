@@ -1,7 +1,11 @@
 # xLaDe: Experimental Lean 4 Ecosystem
 
-![xLaDe](https://img.shields.io/badge/xLaDe-Experimental-blue)
-![License](https://img.shields.io/badge/license-Apache%202.0-green)
+![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
+![Contributors](https://img.shields.io/github/contributors/LakshitSinghBishtTM/xLaDe?color=green)
+![Issues](https://img.shields.io/github/issues/LakshitSinghBishtTM/xLaDe)
+![Forks](https://img.shields.io/github/forks/LakshitSinghBishtTM/xLaDe?color=orange)
+![Stars](https://img.shields.io/github/stars/LakshitSinghBishtTM/xLaDe?style=social)
+![Project Status](https://img.shields.io/badge/Status-Early_Concept-blue)
 
 **xLaDe** is an experimental ecosystem for Lean 4, designed to explore new directions in theorem verification, human-friendly proofs, AI-assisted reasoning, and community-driven development.
 
