@@ -1,0 +1,49 @@
+# =========================================
+# xLaDe .gitignore
+# =========================================
+
+# Lean 4 build artifacts
+_lean/
+build/
+bin/
+*.olean
+*.d
+
+# VS Code settings
+.vscode/
+
+# JetBrains IDEs (IntelliJ, CLion, PyCharm, etc.)
+.idea/
+*.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Backup and temp files
+*.tmp
+*.swp
+*.bak
+*.orig
+*.rej
+
+# Node / npm (if any JS tools used in future)
+node_modules/
+npm-debug.log
+
+# Python / ML scripts cache (if AI/ML integration added later)
+__pycache__/
+*.pyc
+
+# Documentation build artifacts
+docs/_build/
+docs/.sass-cache/
+
+# Logs
+*.log
+
+# Misc
+*.aux
+*.out
+*.toc
