@@ -66,12 +66,16 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) for full instructions.
 ```
 
 xLaDe/
-├── leancore/         # Forked Lean 4 core module
-├── gitmodule/        # Git submodule references
-├── LICENSE3          # Apache 2.0 license
-├── CONTRIBUTING.md   # Contribution guidelines
-├── ROADMAP.md        # Project roadmap and objectives
-└── README.md         # This file
+├── .github/
+├── docs/
+├── examples/
+├── lean-core/
+├── .gitmodules
+├── .gitignore
+├── CONTRIBUTING.md
+├── CONTRIBUTORS.md
+├── LICENSE
+└── README.md
 
 ```
 
