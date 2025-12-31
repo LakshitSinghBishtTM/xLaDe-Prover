@@ -101,4 +101,3 @@ This project is open-source under the [Apache License 2.0](LICENSE3).
 ---
 
 > ⚠️ **Note:** xLaDe is in an experimental stage. Features are evolving, and the ecosystem is designed for research, exploration, and collaboration. Your contributions help shape its future.
-```
