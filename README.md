@@ -96,7 +96,7 @@ Join the discussion via GitHub Issues or Pull Requests.
 
 ## License
 
-This project is open-source under the [Apache License 2.0](LICENSE3).
+This project is open-source under the [Apache License 2.0](LICENSE).
 
 ---
 
