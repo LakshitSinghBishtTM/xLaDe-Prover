@@ -7,7 +7,7 @@ We welcome contributions at all levels - from documentation and ideas to code mo
 
 ## Core Team
 
-- **Founder:** Lakshit Singh Bisht - Ecosystem architecture, coordination, and vision  
+- **Founder:** Lakshit Singh Bisht - Ecosystem research and vision  
 - **CEO:** Manpreet Sahoo - Project strategy and overall direction  
 - **Project Manager:** Deepak Pandey - Task management, roadmap planning, and community coordination
 
